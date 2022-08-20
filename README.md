@@ -1,5 +1,10 @@
-Mortgage overpayment calculator using React and D3
+> Fork from [paulhoughton repo](https://github.com/paulhoughton/mortgage)
 
-http://paulhoughton.github.io/mortgage/
+## Pre-requisites
 
-See also [Mobx](https://github.com/paulhoughton/mortgage-mobx/) version
+1. Use node version 16.16.0 or above, you can just run `nvm use`.
+
+## How to run
+
+1. `npm ci`
+1. `npm start`
